@@ -1,6 +1,6 @@
 # windows activation
 
-[![windows activation](gett-detail.png)](https://icncomputer.com/how-to-activate-windows/)
+[![windows activation](gett-detail.png)](#)
 
 While using an unactivated version of Windows 10/ 11, you must have seen the Activate Windows prompt at the bottom of the screen. Microsoft uses Windows Activation to prevent software privacy by ensuring that you are using a genuine Windows copy.
 
